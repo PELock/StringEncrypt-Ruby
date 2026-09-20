@@ -1,0 +1,8 @@
+*.gem
+*.rbc
+/pkg
+/.bundle
+/vendor/bundle
+/.ruby-version
+/.rvmrc
+.DS_Store
