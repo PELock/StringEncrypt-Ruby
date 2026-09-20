@@ -3,7 +3,7 @@
 require_relative "lib/stringencrypt/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "stringencrypt"
+  spec.name = "pelock-stringencrypt"
   spec.version = StringEncrypt::VERSION
   spec.authors = ["Bartosz Wójcik"]
   spec.email = ["support@pelock.com"]

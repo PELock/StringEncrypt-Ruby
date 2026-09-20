@@ -203,14 +203,14 @@ The algorithm is always **unique**, the encryption keys are always **randomly se
 The preferred way to install the Web API SDK is via RubyGems.
 
 ```bash
-gem install stringencrypt
+gem install pelock-stringencrypt
 ```
 
 ```ruby
 require "stringencrypt"
 ```
 
-The gem is published at https://rubygems.org/gems/stringencrypt
+The gem is published at https://rubygems.org/gems/pelock-stringencrypt
 
 ## Usage examples
 
